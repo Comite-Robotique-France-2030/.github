@@ -1,4 +1,4 @@
-<img src="[images/robot.png](https://c-robotique-france2030.org/themes/custom/site_theme/images/charte/logo-crf-2030.png)" width="300">
+<img width="302" height="302" alt="logo-crf-2030" src="https://github.com/user-attachments/assets/e21eaa3b-ae23-4ef7-b887-cd56ef77f455" />
 
 The [France 2030 Robotics Committee](https://c-robotique-france2030.org/) acts as the interface between the France 2030 initiative, the academic world, robotics technology providers, and system integrators. Its mission is to coordinate communities such as the Robotics Transfer Challenge and the winners of France 2030 “Robotics” project calls, as well as all stakeholders in robotics technologies and services. It provides services designed to accelerate the transformation of research outputs into business value within the robotics sector.
 
