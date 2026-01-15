@@ -14,15 +14,25 @@ Knowledge and technology transfer serve as key levers for addressing major socie
 
 #### Teams
 
-![cea](https://github.com/user-attachments/assets/aa764b39-5fc6-46d5-8a8d-d436fa81a617)
-- [CEA](https://www.cea.fr/): Atomic Energy and Alternative Energies Commission
-![ANRT_LOGOTYPE](https://github.com/user-attachments/assets/42ea50e1-2376-4428-a74e-d2578f5e960e)
-- [ANRT](https://www.anrt.asso.fr/): National Association for Research and Technology
-<img width="130" height="130" alt="Logo_Centre_national_de_la_recherche_scientifique_(2023-) svg_" src="https://github.com/user-attachments/assets/24dbf4b6-552e-4a6a-b68b-2ed479f6f732" />
-- [CNRS](https://www.cnrs.fr/fr): National Center for Scientific Research
-<img width="210" height="62" alt="Inria_logo_rouge svg_" src="https://github.com/user-attachments/assets/49d7acc6-2395-48c4-9485-3f36e0bf7d5c" />
-- [INRIA](https://www.inria.fr/fr): National Institute for Research in Computer Science and Automation
-![onera](https://github.com/user-attachments/assets/b7b38251-288f-4dc7-a919-aa25943d3f12)
-- [ONERA](https://www.onera.fr/fr): National Office for Aerospace Studies and Research
-<img width="193" height="74" alt="aquitaine robotics" src="https://github.com/user-attachments/assets/a4d05ecd-0c1e-4d31-a9ad-669e579b2503" />
-- [Aquitaine Robotics](https://www.aquitaine-robotics.com/): French cluster supporting robotics companies, research, and training.
+- <img src="https://github.com/user-attachments/assets/aa764b39-5fc6-46d5-8a8d-d436fa81a617" width="40" align="left"> **[CEA](https://www.cea.fr/)**
+  Atomic Energy and Alternative Energies Commission
+
+- <img src="https://github.com/user-attachments/assets/42ea50e1-2376-4428-a74e-d2578f5e960e" width="40" align="left"> **[ANRT](https://www.anrt.asso.fr/)**
+  National Association for Research and Technology
+
+- <img src="https://github.com/user-attachments/assets/24dbf4b6-552e-4a6a-b68b-2ed479f6f732" width="40" align="left"> **[CNRS](https://www.cnrs.fr/fr)**
+  National Center for Scientific Research
+
+- <img src="https://github.com/user-attachments/assets/b7b38251-288f-4dc7-a919-aa25943d3f12" width="40" align="left"> **[ONERA](https://www.onera.fr/fr)**
+   National Office for Aerospace Studies and Research
+
+- <img src="https://github.com/user-attachments/assets/49d7acc6-2395-48c4-9485-3f36e0bf7d5c" width="40" align="left"> **[INRIA](https://www.inria.fr/fr)**
+   National Institute for Research in Computer Science and Automation
+
+- <img src="https://github.com/user-attachments/assets/a4d05ecd-0c1e-4d31-a9ad-669e579b2503" width="40" align="left"> **[Aquitaine Robotics](https://www.aquitaine-robotics.com/)**
+  French cluster supporting robotics companies, research, and training
+
+
+
+#### Open source tools
+
