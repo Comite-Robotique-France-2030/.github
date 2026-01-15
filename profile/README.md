@@ -15,27 +15,27 @@ Knowledge and technology transfer serve as key levers for addressing major socie
 #### Teams
 
 - <img src="https://github.com/user-attachments/assets/aa764b39-5fc6-46d5-8a8d-d436fa81a617" width="40" align="left"> **[CEA](https://www.cea.fr/)**
-  Atomic Energy and Alternative Energies Commission <br>
+  Atomic Energy and Alternative Energies Commission <br/>
 
 
 - <img src="https://github.com/user-attachments/assets/42ea50e1-2376-4428-a74e-d2578f5e960e" width="40" align="left"> **[ANRT](https://www.anrt.asso.fr/)**
-  National Association for Research and Technology <br>
+  National Association for Research and Technology <br />
 
 
 - <img src="https://github.com/user-attachments/assets/24dbf4b6-552e-4a6a-b68b-2ed479f6f732" width="40" align="left"> **[CNRS](https://www.cnrs.fr/fr)**
-  National Center for Scientific Research <br>
+  National Center for Scientific Research <br/>
 
 
 - <img src="https://github.com/user-attachments/assets/b7b38251-288f-4dc7-a919-aa25943d3f12" width="40" align="left"> **[ONERA](https://www.onera.fr/fr)**
-   National Office for Aerospace Studies and Research <br>
+   National Office for Aerospace Studies and Research <br/>
 
 
 - <img src="https://github.com/user-attachments/assets/49d7acc6-2395-48c4-9485-3f36e0bf7d5c" width="40" align="left"> **[INRIA](https://www.inria.fr/fr)**
-   National Institute for Research in Computer Science and Automation <br>
+   National Institute for Research in Computer Science and Automation <br/>
 
 
 - <img src="https://github.com/user-attachments/assets/a4d05ecd-0c1e-4d31-a9ad-669e579b2503" width="40" align="left"> **[Aquitaine Robotics](https://www.aquitaine-robotics.com/)**
-  French cluster supporting robotics companies, research, and training <br>
+  French cluster supporting robotics companies, research, and training <br/>
 
 
 
