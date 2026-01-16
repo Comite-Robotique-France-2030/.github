@@ -38,6 +38,19 @@ Knowledge and technology transfer serve as key levers for addressing major socie
   French cluster supporting robotics companies, research, and training
 <br/>
 
+#### Robotics tuturianls by theme
 
-#### Open source tools
+- Human-Robot Interaction (Interactions robotique)
+- Middleware and Development Environment (Middleware et environnement de développement)
+- Autonomous Navigation (Navigation autonome)
+- Robotics Perception (Perception pour la robotique)
+- Production Systems Planning and Monitoring (Planification et monitoring des systèmes de production)
+- Path Planning (Planification de trajectoire)
+- Robotic Manipulation (Manipulation robotique)
+- Robotics & AI (Robotique et IA)
+- Humanoid Robotics (Robotique humanoïde)
+- Robotics Simulation (Simulation robotique)
+- Machine/Industrial Vision (Vision industrielle / Vision machine)
+
+
 
