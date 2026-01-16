@@ -43,13 +43,13 @@ Knowledge and technology transfer serve as key levers for addressing major socie
 - Human-Robot Interaction (Interactions robotique)
 - Middleware and Development Environment (Middleware et environnement de développement)
 - Autonomous Navigation (Navigation autonome)
-- Robotics Perception (Perception pour la robotique)
+- [Robotics Perception (Perception pour la robotique)](https://github.com/Comite-Robotique-France-2030/Robotic-Perception)
 - Production Systems Planning and Monitoring (Planification et monitoring des systèmes de production)
 - Path Planning (Planification de trajectoire)
 - Robotic Manipulation (Manipulation robotique)
 - Robotics & AI (Robotique et IA)
 - Humanoid Robotics (Robotique humanoïde)
-- Robotics Simulation (Simulation robotique)
+- [Robotics Simulation (Simulation robotique)] (https://github.com/Comite-Robotique-France-2030/Robotics-Simulation)
 - Machine/Industrial Vision (Vision industrielle / Vision machine)
 
 
