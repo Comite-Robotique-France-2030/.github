@@ -38,7 +38,7 @@ Knowledge and technology transfer serve as key levers for addressing major socie
   French cluster supporting robotics companies, research, and training
 <br/>
 
-#### Robotics tuturianls by theme
+#### Robotics tuturials by theme
 
 - Human-Robot Interaction (Interactions robotique)
 - Middleware and Development Environment (Middleware et environnement de développement)
