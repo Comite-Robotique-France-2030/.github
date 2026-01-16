@@ -50,6 +50,7 @@ Knowledge and technology transfer serve as key levers for addressing major socie
 - Robotics & AI (Robotique et IA)
 - Humanoid Robotics (Robotique humanoïde)
 - [Robotics Simulation (Simulation robotique)] (https://github.com/Comite-Robotique-France-2030/Robotics-Simulation)
+- 
 - Machine/Industrial Vision (Vision industrielle / Vision machine)
 
 
